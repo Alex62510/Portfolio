@@ -4,6 +4,7 @@ import Header from "./Header/Header";
 import Main from "./Main/Main";
 import Skills from "./skils/Skills";
 import MyWorks from "./MyWorks/MyWorks";
+import RemoteWork from "./remoteWork/RemoteWork";
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
             <Main/>
             <Skills/>
             <MyWorks/>
+            <RemoteWork/>
         </div>
     );
 }
