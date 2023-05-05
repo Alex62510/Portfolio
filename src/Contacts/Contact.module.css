@@ -10,6 +10,10 @@
 
 }
 
+.title {
+    background-color: chocolate;
+}
+
 .contactForm {
     width: 270px;
     display: flex;
@@ -18,11 +22,13 @@
     justify-content: space-between;
 
 }
-.input {
 
+.input {
+    background-color: #7f979d;
     margin: 2px;
 }
-.textarea {
 
+.textarea {
+    background-color: #7f979d;
     margin: 2px;
 }
