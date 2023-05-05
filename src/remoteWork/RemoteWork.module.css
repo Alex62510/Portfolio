@@ -1,7 +1,7 @@
 .remoteWorkBlock {
     height: 40vh;
     background-color: #eef3c2;
-
+text-align: center;
 }
 .remoteWorkContainer {
     display: flex;

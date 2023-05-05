@@ -6,7 +6,7 @@ const RemoteWork = () => {
     return (
         <div className={style.remoteWorkBlock}>
             <div className={`${styleContainer.container} ${style.remoteWorkContainer}`}>
-                <h1 className={style.title}>looking for remote work options</h1>
+                <h2 className={style.title}>I am available for freelancer</h2>
                 <button className={style.button}>Hire me</button>
             </div>
         </div>
